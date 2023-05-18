@@ -6,7 +6,7 @@ public class Main {
 
     Gerenciador.AdicionarContato("Maria", "987654321"); 
 
-    Gerenciador.BuscarContato("Maria");
+    Gerenciador.BuscarContato("Maria.");
 
     Gerenciador.ListarContatos();
     }
